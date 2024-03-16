@@ -1,1 +1,2 @@
 kolejny commit! :)
+commit update
