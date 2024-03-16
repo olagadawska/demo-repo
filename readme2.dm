@@ -1,2 +1,0 @@
-kolejny commit! :)
-commit update
